@@ -3,7 +3,7 @@
 
 Hey，我是志恒，爱折腾，兴趣爱好不明。
 
-职业是软件工程师，[intel it-flex](https://www.intel.cn)开发人员。
+职业是软件工程师，[intel it-flex](https://www.intel.cn) 开发人员。
 
 一些作品和开源软件项目，👉 戳 [Github][1]。
 
